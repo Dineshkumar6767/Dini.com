@@ -1,0 +1,912 @@
+*{
+    margin:0px;
+    font-family: sans-serif;
+}
+#a1
+{
+    position: absolute;
+    height: 700px;
+    width: 1380px;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+    opacity: 70%;
+}
+#a2
+{
+    position: absolute;
+    top: -5px;
+    left: 50px;
+}
+#a3
+{
+    position: absolute;
+    top: 30px;
+    left: 1080px;
+    height: 35px;
+    width: 95px;
+    font-weight: bold;
+    background-color:rgba(0, 0, 0, 0.521) ;
+    color: white;
+}
+#a4
+{
+    position: absolute;
+    top: 28px;
+    left: 1200px;
+    height: 40px;
+    width: 95px;
+    font-weight: bold;
+    background-color:red ;
+    border-radius: 5px;
+}
+#a5
+{
+    text-decoration: none;
+    color: white;
+}
+#a6
+{
+    position: absolute;
+    color:white ;
+    left: 400px;
+    top: 230px;
+    align-items: center;
+    font-size:50px;  
+    font-family: sans-serif;  
+}
+#a7
+{
+    position: absolute;
+    color:white ;
+    left: 460px;
+    top: 290px;
+    align-items: center;
+    font-size:50px;  
+    font-family: sans-serif;  
+}
+#a8
+{
+    position: absolute;
+    color:white ;
+    left: 460px;
+    top: 370px;
+    align-items: center;
+    font-size:25px;  
+    font-family: sans-serif;  
+}
+#a9
+{
+    position: absolute;
+    color:white ;
+    left: 360px;
+    top: 420px;
+    align-items: center;
+    font-size:18px; 
+    font-family: sans-serif;  
+}
+#a10
+{
+    position: absolute;
+    color: black;
+    height: 50px;
+    width: 450px;
+    left: 340px;
+    top: 460px;
+    align-items: center;
+    font-size:15px; 
+}
+#a11
+{
+    position: absolute;
+    color: white;
+    background-color: rgb(243, 12, 12);
+    height: 56px;
+    width: 200px;
+    border: 0ch;
+    left: 798px;
+    top: 460px;
+    align-items: center;
+    font-size:20px; 
+}
+#a11:hover
+{
+    background-color: rgb(252, 50, 0);
+}
+#a12
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 700px;
+}
+#a13
+{
+    height: 450px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 710px;
+
+}
+#a14
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+#a15
+{
+    height: 300px;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 26px;
+    position: absolute;
+    top: 220px;
+    left: 150px;
+}
+#a18
+{
+    position: absolute;
+    left: 825px;
+    top: 53px;
+}
+#a16
+{
+    position: absolute;
+    top:720px;
+    left: 760px;
+}
+#a17
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 1160px;
+}
+#a19
+{
+    height: 450px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 1170px;
+
+}
+#a21
+{
+    position: absolute;
+    left: 50px;
+}
+#a22
+{
+    position: absolute;
+    width: 340px;
+    height: 90px;
+    background-color: black;
+    border: 2px solid grey;
+    border-radius: 10px;
+    top: 260px;
+    left: 130px;
+}
+#a23
+{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+#a24
+{
+    position: absolute;
+    top: 25px;
+    left: 100px;
+    color: white;
+    font-family: sans-serif;
+}
+#a25
+{
+    position: absolute;
+    top: 47px;
+    left: 100px;
+    color: rgb(15, 113, 224);
+}
+#a26
+{
+    position: absolute;
+    top: 32px;
+    left: 270px;
+    border-radius: 50%;
+}
+#a20
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 1620px;
+}
+#a27
+{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    left: 690px;
+    top: 140px;
+}
+#a28
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+#a29
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+#a30
+{
+    height: 550px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 1630px;
+
+}
+#a31
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+#a32
+{
+    height: 300px;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 26px;
+    position: absolute;
+    top: 220px;
+    left: 150px;
+}
+#a33
+{
+    position: absolute;
+    left: 825px;
+    top: 53px;
+}
+#a34
+{
+    position: absolute;
+    top:1645px;
+    left: 712px;
+}
+#a35
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 2170px;
+}
+#a36
+{
+    height: 500px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 2180px;
+
+}
+#a37
+{
+    position: absolute;
+    left: 130px;
+    top: 50px;
+}
+#a38
+{
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    left: 700px;
+    top: 140px;
+}
+#a39
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+#a40
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+#a41
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 2670px;
+}
+#a42
+{
+    height: 900px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 2680px;
+}
+#a43
+{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: 70px;
+    left: 340px;
+}
+#a44
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a45
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 225px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a46
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 300px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a47
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 375px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a48
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 450px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a49
+{
+    height: 50px;
+    width: 700px;
+    background-color: rgb(46, 45, 45);
+    border: 5px solid black;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px;
+    position: absolute;
+    top: 525px;
+    left: 250px;
+   font-size: 30px;
+   font-family: sans-serif;
+}
+#a50
+{
+    position: absolute;
+    color:white ;
+    left: 320px;
+    top: 680px;
+    align-items: center;
+    font-size:18px; 
+    font-family: sans-serif;  
+}
+#a51
+{
+    position: absolute;
+    color: black;
+    height: 50px;
+    width: 450px;
+    left: 300px;
+    top: 730px;
+    align-items: center;
+    font-size:15px; 
+}
+#a52
+{
+    position: absolute;
+    color: white;
+    background-color: rgb(247, 22, 22);
+    height: 56px;
+    width: 200px;
+    border: 0ch;
+    left: 758px;
+    top: 730px;
+    align-items: center;
+    font-size:20px; 
+}
+#a52:hover
+{
+    background-color: rgb(252, 50, 0);
+}
+#a53
+{
+    height: 10px;
+    width: 1380px;
+    background-color: rgb(56, 54, 54);
+    position: absolute;
+    top: 3570px;
+}
+#a54
+{
+    height: 450px;
+    width: 1380px;
+    background-color: black;
+    position: absolute;
+    top: 3580px;   
+}
+#a55
+{
+    position: absolute;
+    top: 130px;
+    left: 250px;
+    color: rgb(143, 137, 137);
+}
+#a56
+{
+    font-size: 18px;
+    position: absolute;
+    top: 70px;
+    left: 250px;
+    color:  rgb(143, 137, 137);
+}
+#a57
+{
+    padding-bottom: 15px;
+}
+#a57:hover
+{
+    text-decoration: underline;
+}
+#a58
+{
+    padding-bottom: 15px;
+}
+#a58:hover
+{
+    text-decoration: underline;
+}
+#a59
+{
+    padding-bottom: 15px;
+}
+#a59:hover
+{
+    text-decoration: underline;
+}
+#a60
+{
+    padding-bottom: 15px;
+}
+#a60:hover
+{
+    text-decoration: underline;
+}
+#a61
+{
+    position: absolute;
+    top: 130px;
+    left: 450px;
+    color: rgb(143, 137, 137);
+}
+#a62
+{
+    padding-bottom: 15px;
+}
+#a62:hover
+{
+    text-decoration: underline;
+}
+#a63
+{
+    padding-bottom: 15px;
+}
+#a63:hover
+{
+    text-decoration: underline;
+}
+#a64
+{
+    padding-bottom: 15px;
+}
+#a64:hover
+{
+    text-decoration: underline;
+}
+#a65
+{
+    padding-bottom: 15px;
+}
+#a65:hover
+{
+    text-decoration: underline;
+}
+#a66
+{
+    position: absolute;
+    top: 130px;
+    left: 650px;
+    color: rgb(143, 137, 137);
+}
+#a67
+{
+    padding-bottom: 15px;
+}
+#a67:hover
+{
+    text-decoration: underline;
+}
+#a68
+{
+    padding-bottom: 15px;
+}
+#a68:hover
+{
+    text-decoration: underline;
+}
+#a69
+{
+    padding-bottom: 15px;
+}
+#a69:hover
+{
+    text-decoration: underline;
+}
+#a70
+{
+    padding-bottom: 15px;
+}
+#a70:hover
+{
+    text-decoration: underline;
+}
+#a71
+{
+    position: absolute;
+    top: 130px;
+    left: 850px;
+    color: rgb(143, 137, 137);
+}
+#a72
+{
+    padding-bottom: 15px;
+}
+#a72:hover
+{
+    text-decoration: underline;
+}
+#a73
+{
+    padding-bottom: 15px;
+}
+#a73:hover
+{
+    text-decoration: underline;
+}
+#a74
+{
+    padding-bottom: 15px;
+}
+#a74:hover
+{
+    text-decoration: underline;
+}
+#a75
+{
+    position: absolute;
+    top: 290px;
+    left: 260px;
+    height: 55px;
+    width: 115px;
+    border-radius: 2px;
+    font-weight: bold;
+    background-color:rgba(0, 0, 0, 0.521) ;
+    color: rgb(143, 137, 137);
+}
+#a76
+{   position: absolute;
+    top: 370px;
+    left: 260px;
+    color: rgb(143, 137, 137);
+}
+#b1
+{
+    position: absolute;
+    height: 1150px;
+    width: 1380px;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.822);
+    opacity: 70%;
+}
+#b2
+{
+    position: absolute;
+    top: -5px;
+    left: 30px;
+}
+#b3
+{
+    height: 650px;
+    width: 450px;
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    top: 100px;
+    left: 450px;
+}
+#b4
+{
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 70px;
+    font-size: 34px;
+}
+#b5
+{
+    background-color: rgb(73, 72, 72);
+    height: 50px;
+    width: 320px;
+    border-radius: 5px;
+    position: absolute;
+    top: 140px;
+    left: 70px;
+    border: none;
+}
+#b6
+{
+    background-color: rgb(73, 72, 72);
+    height: 50px;
+    width: 320px;
+    border-radius: 5px;
+    position: absolute;
+    top: 210px;
+    left: 70px;
+    border: none;
+}
+#b7
+{
+    background-color: rgb(241, 14, 14);
+    height: 50px;
+    width: 320px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    position: absolute;
+    top: 310px;
+    left: 70px;
+    border: none;
+}
+#b8
+{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    left: 70px;
+    top: 375px;
+}
+#b9
+{
+    position: absolute;
+    left: 90px;
+    top: 375px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(155, 151, 151);
+}
+#b10
+{
+    color: rgb(165, 162, 162);
+    font-size: 14px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 375px;
+    left: 300px;
+}
+#c
+{
+    height: 300px;
+    width: 340px;
+    position: absolute;
+    top: 420px;
+    left: 60px;
+}
+#b11
+{
+    color: rgb(155, 150, 150);
+    font-size: 18px;
+}
+#b12
+{
+    position: absolute;
+    left: 130px;
+    top: 2px;
+    color: white;
+    text-decoration: none;
+}
+#b13
+{
+    color: rgb(155, 150, 150);
+    font-size: 15px;
+}
+#b14
+{
+    color: rgb(155, 150, 150);
+    font-size: 13px;
+    
+}
+#b15
+{
+    color: rgb(29, 96, 240);
+}
+#b16
+{
+    height: 300px;
+    width: 1380px;
+    position: absolute;
+    top: 850px;
+    background-color: rgba(0, 0, 0, 0.637);
+}
+#b17
+{
+    color: rgb(151, 151, 151);
+    position: absolute;
+    top: 40px;
+    left: 200px;
+}
+#b18
+{
+    font-size: 14px;
+    position:absolute;
+    top: 100px;
+    left: 190px;
+}
+#b19
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+}
+#b19:hover
+{
+    text-decoration: underline;
+}
+#b20
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+}
+#b20:hover
+{
+    text-decoration: underline;
+}
+#b21
+{
+    font-size: 14px;
+    position:absolute;
+    top: 100px;
+    left: 430px;
+}
+#b22
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+}
+#b22:hover
+{
+    text-decoration: underline;
+}
+#b23
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+}
+#b23:hover
+{
+    text-decoration: underline;
+}
+#b24
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+    font-size: 14px;
+    position:absolute;
+    top: 100px;
+    left: 680px;
+}
+#b24:hover
+{
+    text-decoration: underline;
+}
+#b25
+{
+    color: rgb(151, 151, 151);
+    padding: 10px;
+    font-size: 14px;
+    position:absolute;
+    top: 100px;
+    left: 880px;
+}
+#b25:hover
+{
+    text-decoration: underline;
+}
+#b26
+{
+    height: 45px;
+    width: 100px;
+    background-color: rgba(0, 0, 0, 0.616);
+    color: rgb(128, 125, 125);
+    position:absolute;
+    top: 200px;
+    left: 200px;
+}
